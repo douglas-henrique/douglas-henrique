@@ -11,8 +11,8 @@ const douglas = {
      languages: ["Javascript", "Typescript", "Node", "PHP", "ASP .NET", "Java", "Kotlin", "Swift"],
      databases: ["MySQL", "Mongo DB", "SQLite"],
      tools: ["React", "React Native", "Redux", "Vue JS", "Styled-Components", "Adonis", "Docker", "Laravel", "Firebase"],
-     tests: ["PHP Unity", "Jest"],
-     architecture: ["microservices", "event-driven", "design system pattern"],
+     tests: ["PHP Unit", "Jest"],
+     architecture: ["microservices", "MVC", "MVP"],
   },
   design: ["Figma", "Photoshop", "Illustrator"]
 }
