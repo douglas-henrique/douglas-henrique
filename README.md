@@ -1,5 +1,5 @@
 <h2> Hi, I'm Douglas Henrique! <img src="https://media.giphy.com/media/1r8YvFB47nAsAy36mp/giphy.gif" width="70"></h2>
-<p><em>Full-stack Developer @ <a href="https://provi.com.br/">Provi</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<p><em>Full-stack Developer @ <a href="https://provi.com.br/">Provi</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
 <p> Entrepreneur, developer, project manager and technology lover 👽.<p/>
 
